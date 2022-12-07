@@ -1,1 +1,1 @@
-# homework for cs3451: computer graphics
+# assignments for cs3451: computer graphics
